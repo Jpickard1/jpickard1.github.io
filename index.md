@@ -16,6 +16,7 @@ I am a student at the University of Michigan in the Department of Computer Scien
 ## Machine Learning
 - A page with my notes from 580
 - Links to MIDAS course notebooks, which I should switch to be hosted in colab
+
 ## Previous Projects
 - This page could just have some stuff about the naive bayes classifier I built
 - The work I did on ball bearings
