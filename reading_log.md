@@ -1,3 +1,7 @@
+layout: page
+title: "Reading Log"
+permalink: /reading-log/
+
 # Reading Log
 
 ## Books I am Currently Reading
