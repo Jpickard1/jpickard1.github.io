@@ -1,3 +1,8 @@
 # Reading Log
 
-A list of things I am reading
+## Books I am Currently Reading
+- The Double Helix, James Watson
+- <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos, Strogatz</a>
+
+## Articles and Books
+- 
