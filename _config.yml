@@ -2,6 +2,15 @@ title: Joshua Pickard
 author: Joshua Pickard
 email: jpic@umich.edu
 description: Personal Website
+url: https://JPickard1.github.io
+
+search: true
+
+defaults:
+  - scope:
+      path: "content"
+    values:
+      layout: "section"
 
 markdown: kramdown
 theme: jekyll-theme-cayman
