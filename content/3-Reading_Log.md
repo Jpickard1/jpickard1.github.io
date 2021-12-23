@@ -11,8 +11,8 @@ description: >
 
 ## Articles and Books
 
-### [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
+- [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
 
-### [Localization of the Complex Spectrum: The S Transform](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.462.1500&rep=rep1&type=pdf) (R. G. Stockwell, L. Mansinha, and R. P. Lowe)
+- [Localization of the Complex Spectrum: The S Transform](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.462.1500&rep=rep1&type=pdf) (R. G. Stockwell, L. Mansinha, and R. P. Lowe)
 
 ## To Read List:
