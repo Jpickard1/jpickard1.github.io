@@ -9,7 +9,7 @@ description: >
 - The Double Helix, James Watson
 - <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos, Strogatz</a>
 
-## Articles and Books
+## Articles and Books I've Read
 
 - [The Wavelet Transform, Time-Frequency, Localization and Signal Analysis](https://services.math.duke.edu/~ingrid/publications/ieee36-1990.pdf) (Ingrid Daubechies)
 
