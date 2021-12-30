@@ -1,7 +1,5 @@
 ---
 title: Michigan Institute of Data Science
-description: >
-    This is a list of articles and books I have or am currently reading.
 ---
 
 During the summer of 2021, I was an instructor for the [Data Science for Biomedical Scientist](https://midas.umich.edu/data-science-for-biomedical-scientists/) workshop. This one week course covered the fundamentals of data science and introductory machine learning. I developed and taught programming lectures that applied different algorithms to biological and clinical data.
