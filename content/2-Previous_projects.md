@@ -9,7 +9,7 @@ description: >
 
 During the summer of 2021, I was an instructor for the [Data Science for Biomedical Scientist](https://midas.umich.edu/data-science-for-biomedical-scientists/) workshop. This one week course covered the fundamentals of data science and introductory machine learning. I developed and taught programming lectures that applied different algorithms to biological and clinical data. My code and the data used are available in google colab notebooks.
 
-## [Intelligent Fault Detection with Ball Bearings](https://jpickard1.github.io/content/previous_projects/ball_bearings_and_vibration_images.pdf)
+## [Intelligent Fault Detection with Ball Bearings](https://jpickard1.github.io/content/previous_projects/Ball_Bearings_and_Vibration_Images.pdf)
 
 This project explored and recreated the reslts in the paper [Rolling Element BearingFault Diagnosis Using Convolutional Neural Network andVibration Image](https://www.sciencedirect.com/science/article/abs/pii/S1389041717303261).
 
