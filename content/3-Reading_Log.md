@@ -11,6 +11,8 @@ description: >
 
 ## Articles and Books I've Read
 
+- [Dependence, Correlation and Gaussianity in Independent Component Analysis](https://www.jmlr.org/papers/volume4/cardoso03a/cardoso03a.pdf) (Jean-Francois Cardoso)
+
 - [The Wavelet Transform, Time-Frequency, Localization and Signal Analysis](https://services.math.duke.edu/~ingrid/publications/ieee36-1990.pdf) (Ingrid Daubechies)
 
 - [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
