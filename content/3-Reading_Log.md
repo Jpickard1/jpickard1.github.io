@@ -6,10 +6,11 @@ description: >
 ---
 
 ## Books I am Currently Reading
-- The Double Helix, James Watson
 - <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos, Strogatz</a>
 
 ## Articles and Books I've Read
+
+- The Double Helix, James Watson
 
 - [Dependence, Correlation and Gaussianity in Independent Component Analysis](https://www.jmlr.org/papers/volume4/cardoso03a/cardoso03a.pdf) (Jean-Francois Cardoso)
 
