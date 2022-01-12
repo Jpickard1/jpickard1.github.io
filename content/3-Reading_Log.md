@@ -8,11 +8,13 @@ description: >
 ## Books I am Currently Reading
 - The Goal, Eliyahu M. Goldratt
 - A Most Beautiful Thing, Arshay Cooper
+- [Elements of Information Theorey](https://drive.google.com/file/d/1zQ6PUNGxg1kgJyIcyO2JKJmuTRHU6JI2/view)(Cover, Thomas)
 - <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos, Strogatz</a>
 
 ## Articles and Books I've Read
 
 ### January 2022
+- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](https://drive.google.com/file/d/1BoAGH7ADa12dVTb0szxa5rND-C1iVJ5Z/view)(Erez Lieberman-Aiden and friends)
 - [50 Years of Data Science](https://drive.google.com/file/d/1x9ZsIo8mhINNjHlGd5r_q7jEyKNlMOk8/view)(David Donoho)
 - [Conversation with Dr. Steve Smale and Dr. Lee Hartwell](https://drive.google.com/file/d/1GfW_AD97HGbRa2yVuNK-Uix49piaEh2P/view)(Indika Rajapakse)
 - The Double Helix, James Watson
