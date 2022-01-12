@@ -11,6 +11,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [50 Years of Data Science](https://drive.google.com/file/d/1x9ZsIo8mhINNjHlGd5r_q7jEyKNlMOk8/view)(David Donoho)
 - [Conversation with Dr. Steve Smale and Dr. Lee Hartwell](https://drive.google.com/file/d/1GfW_AD97HGbRa2yVuNK-Uix49piaEh2P/view)(Indika Rajapakse)
 - The Double Helix, James Watson
 
