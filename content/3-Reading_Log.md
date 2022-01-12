@@ -31,3 +31,4 @@ description: >
 - [Rolling element bearing fault diagnosis using convolutional neural network and vibration image](https://www.sciencedirect.com/science/article/abs/pii/S1389041717303261) (Duy-Tang Hoang and Hee-Jun Kang)
 
 ## To Read List:
+- [Numerical Computing with MATLAB](https://www.mathworks.com/moler/chapters.html)(Cleve Moler)
