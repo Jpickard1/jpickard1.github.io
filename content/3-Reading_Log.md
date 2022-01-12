@@ -10,8 +10,11 @@ description: >
 
 ## Articles and Books I've Read
 
+### January 2022
+- [Conversation with Dr. Steve Smale and Dr. Lee Hartwell](https://drive.google.com/file/d/1GfW_AD97HGbRa2yVuNK-Uix49piaEh2P/view)(Indika Rajapakse)
 - The Double Helix, James Watson
 
+### 2021
 - [Dependence, Correlation and Gaussianity in Independent Component Analysis](https://www.jmlr.org/papers/volume4/cardoso03a/cardoso03a.pdf) (Jean-Francois Cardoso)
 
 - [The Wavelet Transform, Time-Frequency, Localization and Signal Analysis](https://services.math.duke.edu/~ingrid/publications/ieee36-1990.pdf) (Ingrid Daubechies)
