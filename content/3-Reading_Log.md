@@ -14,7 +14,6 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
-- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](https://drive.google.com/file/d/1BoAGH7ADa12dVTb0szxa5rND-C1iVJ5Z/view)(Erez Lieberman-Aiden and friends)
 - [50 Years of Data Science](https://drive.google.com/file/d/1x9ZsIo8mhINNjHlGd5r_q7jEyKNlMOk8/view)(David Donoho)
 - [Conversation with Dr. Steve Smale and Dr. Lee Hartwell](https://drive.google.com/file/d/1GfW_AD97HGbRa2yVuNK-Uix49piaEh2P/view)(Indika Rajapakse)
 - The Double Helix, James Watson
@@ -32,3 +31,4 @@ description: >
 
 ## To Read List:
 - [Numerical Computing with MATLAB](https://www.mathworks.com/moler/chapters.html)(Cleve Moler)
+- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](https://drive.google.com/file/d/1BoAGH7ADa12dVTb0szxa5rND-C1iVJ5Z/view)(Erez Lieberman-Aiden and friends)
