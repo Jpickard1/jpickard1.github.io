@@ -8,6 +8,12 @@ The code and the data are available in google colab notebooks below. Each notebo
 
 ### Introduction to Python
 
+[Notebook](https://drive.google.com/file/d/1q35hXryQsIgfSSjxQGRR1RiIIQ053DCj/view?usp=sharing)
+
 ### Clustering
 
-###
+[Notebook](https://drive.google.com/file/d/1O8ul-jx1XnM_MbPIchyS70SbtZz9b54A/view?usp=sharing)
+
+### Regression
+
+
