@@ -14,6 +14,26 @@ The code and the data are available in google colab notebooks below. Each notebo
 
 [Notebook](https://drive.google.com/file/d/1O8ul-jx1XnM_MbPIchyS70SbtZz9b54A/view?usp=sharing)
 
-### Regression
+### Regression and Naive Bayes
 
+[Notebook](https://drive.google.com/file/d/1pW0dWgiDtyRJ2tjcXWl8F7MqUlm4kQW9/view?usp=sharing)
 
+### Decision Trees
+
+[Notebook](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing)
+
+### Random Forests
+
+[Notebook](https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing)
+
+### Neural Networks
+
+[Notebook](https://drive.google.com/file/d/1C9DwJtgmznNoGTZB8uupWbKjgD_5TQIq/view?usp=sharing). Note this colab notebook currently relies on additional import files to deal with the data set, so it can't be run from colab. However, the expected output can be seen and the notebook and required files can be found in the git repo.
+
+### Support Vector Machines
+
+[Notebook](https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing)
+
+### Long Short Term Memory Neural Networks
+
+[Notebook](https://drive.google.com/file/d/1PAYOQCvOJzn4X4MgiuWOPW7dk4fbXBu1/view?usp=sharing)
