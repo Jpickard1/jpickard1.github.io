@@ -25,11 +25,11 @@ This [notebook](https://drive.google.com/file/d/1pW0dWgiDtyRJ2tjcXWl8F7MqUlm4kQW
 
 This [notebook](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing) explores the Wisconsin Breast Cancer Dataset using decision trees.
 
-### Random Forests(https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing)
+### [Random Forests](https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing)
 
 This [notebook](https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing) looks at heart disease prediction using a dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart%2BDisease) and a [Kaggle competition](https://www.kaggle.com/shahirzain/heart-disease-prediction).
 
-### Support Vector Machines(https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing)
+### [Support Vector Machines](https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing)
 
 This was my favorit [notebook](https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing). It explores Support Vector Machines with mutliple kernel configurations on simulated data, the Iris dataset, and the Wisconsin Breast Cancer Dataset.
 
