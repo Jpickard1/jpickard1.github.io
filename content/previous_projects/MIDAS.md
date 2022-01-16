@@ -25,18 +25,18 @@ This [notebook](https://drive.google.com/file/d/1pW0dWgiDtyRJ2tjcXWl8F7MqUlm4kQW
 
 This [notebook](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing) explores the Wisconsin Breast Cancer Dataset using decision trees.
 
-### Random Forests
+### Random Forests(https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing)
 
 This [notebook](https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing) looks at heart disease prediction using a dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart%2BDisease) and a [Kaggle competition](https://www.kaggle.com/shahirzain/heart-disease-prediction).
 
-### Support Vector Machines
+### Support Vector Machines(https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing)
 
 This was my favorit [notebook](https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing). It explores Support Vector Machines with mutliple kernel configurations on simulated data, the Iris dataset, and the Wisconsin Breast Cancer Dataset.
 
-### Neural Networks
+### [Neural Networks](https://drive.google.com/file/d/1C9DwJtgmznNoGTZB8uupWbKjgD_5TQIq/view?usp=sharing)
 
-[Notebook](https://drive.google.com/file/d/1C9DwJtgmznNoGTZB8uupWbKjgD_5TQIq/view?usp=sharing). Note this colab notebook currently relies on additional import files to deal with the data set, so it can't be run from colab. However, the expected output can be seen and the notebook and required files can be found in the git repo.
+This [notebook](https://drive.google.com/file/d/1C9DwJtgmznNoGTZB8uupWbKjgD_5TQIq/view?usp=sharing) builds a basic neural network using keras. Note this colab notebook currently relies on additional import files to deal with the data set, so it can't be run from colab. However, the expected output can be seen and the notebook and required files can be found in the git repo. To run this notebook locally, it can be cloned from the [git repo](https://github.com/Jpickard1/MIDASBioMedBootCamp) and found in Session 15.
 
-### Long Short Term Memory Neural Networks
+### [Long Short Term Memory Neural Networks](https://drive.google.com/file/d/1PAYOQCvOJzn4X4MgiuWOPW7dk4fbXBu1/view?usp=sharing)
 
-[Notebook](https://drive.google.com/file/d/1PAYOQCvOJzn4X4MgiuWOPW7dk4fbXBu1/view?usp=sharing)
+This [notebook](https://drive.google.com/file/d/1PAYOQCvOJzn4X4MgiuWOPW7dk4fbXBu1/view?usp=sharing) builds a Long Short Term Memory Neural Network to do time series data analysis using the Human Activity Recognition Using Smartphones Data Set. This dataset has movement data collected from a cell phone that a number of participants held while doing different activities. The goal is to build a neural network that can identify the what the person is doing. Similar to the neural network above, this notebook should be run locally and cloned from the [git repo](https://github.com/Jpickard1/MIDASBioMedBootCamp) (found in Session 20). The expected output can be seen in the colab notebook.
