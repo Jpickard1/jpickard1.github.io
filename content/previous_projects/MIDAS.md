@@ -9,21 +9,21 @@ During the summer of 2021, I was an instructor for the [Data Science for Biomedi
 
 The code and the data are now available in google colab notebooks below, and the original git repo can be found here: https://github.com/Jpickard1/MIDASBioMedBootCamp. Each notebook contains a description of the data used and some instructions for how to run the code. Ning Ping was an instructor for this course and coauthored these notebooks with me.
 
-### Introduction to Python
+### [Introduction to Python](https://drive.google.com/file/d/1q35hXryQsIgfSSjxQGRR1RiIIQ053DCj/view?usp=sharing)
 
-[Notebook](https://drive.google.com/file/d/1q35hXryQsIgfSSjxQGRR1RiIIQ053DCj/view?usp=sharing)
+This [notebook](https://drive.google.com/file/d/1q35hXryQsIgfSSjxQGRR1RiIIQ053DCj/view?usp=sharing) covers the basic syntax and programming operations in python. It is a brief overview of variables, control flow, and data structures. It is very acceessable to anyone that has written code in another language before.
 
-### Clustering
+### [Clustering](https://drive.google.com/file/d/1O8ul-jx1XnM_MbPIchyS70SbtZz9b54A/view?usp=sharing)
 
-[Notebook](https://drive.google.com/file/d/1O8ul-jx1XnM_MbPIchyS70SbtZz9b54A/view?usp=sharing)
+This [notebook](https://drive.google.com/file/d/1O8ul-jx1XnM_MbPIchyS70SbtZz9b54A/view?usp=sharing) introduces K-Means, Spectral, and Aglomerative clustering techniques on multiple simulated datasets. It provides documentation for a number of other clustering algorithms as well and introduces how to evaluate the quality of a clustering using Davis-Boulding Scoring.
 
-### Regression and Naive Bayes
+### [Regression and Naive Bayes](https://drive.google.com/file/d/1pW0dWgiDtyRJ2tjcXWl8F7MqUlm4kQW9/view?usp=sharing)
 
-[Notebook](https://drive.google.com/file/d/1pW0dWgiDtyRJ2tjcXWl8F7MqUlm4kQW9/view?usp=sharing)
+This [notebook](https://drive.google.com/file/d/1pW0dWgiDtyRJ2tjcXWl8F7MqUlm4kQW9/view?usp=sharing) applies linear, logistic, and ridge regression techniques to a datasets with information on systolic blood pressure and a dataset about the effects of smoking during pregnancy. It also introduces different methods exploring a data set and evaluating a models performance. The Naive Bayes model is applied to predict a diagnosis of diabetes in patients.
 
-### Decision Trees
+### [Decision Trees](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing)
 
-[Notebook](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing)
+This [notebook](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing)
 
 ### Random Forests
 
