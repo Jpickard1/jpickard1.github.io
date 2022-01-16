@@ -2,7 +2,7 @@
 title: Michigan Institute of Data Science
 ---
 <p align="center">
-  <img src="https://github.com/Jpickard1/jpickard1.github.io/blob/main/content/imgs/MIDAS%20logo.png?raw=true" alt="MIDAS logo" width="500"/>
+  <img src="https://github.com/Jpickard1/jpickard1.github.io/blob/main/content/imgs/MIDAS%20logo.png?raw=true" alt="MIDAS logo" object-fit="fill"/>
 </p>
 
 During the summer of 2021, I was an instructor for the [Data Science for Biomedical Scientist](https://midas.umich.edu/data-science-for-biomedical-scientists/) workshop. This one week course covered the fundamentals of data science and introductory machine learning. I developed and taught programming lectures that applied different algorithms to biological and clinical data. The programming lectures followed conceptual lectures on how each algorithm worked and different clinical use cases for them.
