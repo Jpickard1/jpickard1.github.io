@@ -23,19 +23,19 @@ This [notebook](https://drive.google.com/file/d/1pW0dWgiDtyRJ2tjcXWl8F7MqUlm4kQW
 
 ### [Decision Trees](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing)
 
-This [notebook](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing)
+This [notebook](https://drive.google.com/file/d/1O4I8vNNR6inoTpIkDw521ELJQ8mtCfat/view?usp=sharing) explores the Wisconsin Breast Cancer Dataset using decision trees.
 
 ### Random Forests
 
-[Notebook](https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing)
+This [notebook](https://drive.google.com/file/d/1ucz5SvcncT3A9qWIBjOx8EPl4o1G0Zfy/view?usp=sharing) looks at heart disease prediction using a dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart%2BDisease) and a [Kaggle competition](https://www.kaggle.com/shahirzain/heart-disease-prediction).
+
+### Support Vector Machines
+
+This was my favorit [notebook](https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing). It explores Support Vector Machines with mutliple kernel configurations on simulated data, the Iris dataset, and the Wisconsin Breast Cancer Dataset.
 
 ### Neural Networks
 
 [Notebook](https://drive.google.com/file/d/1C9DwJtgmznNoGTZB8uupWbKjgD_5TQIq/view?usp=sharing). Note this colab notebook currently relies on additional import files to deal with the data set, so it can't be run from colab. However, the expected output can be seen and the notebook and required files can be found in the git repo.
-
-### Support Vector Machines
-
-[Notebook](https://drive.google.com/file/d/1w_kQ0zBKiPyMsFZNLDhkiz1acR7YLM84/view?usp=sharing)
 
 ### Long Short Term Memory Neural Networks
 
