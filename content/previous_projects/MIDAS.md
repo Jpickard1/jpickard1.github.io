@@ -1,10 +1,13 @@
 ---
 title: Michigan Institute of Data Science
 ---
+<p align="center">
+  <img src="https://github.com/Jpickard1/jpickard1.github.io/blob/main/content/imgs/MIDAS%20logo.png?raw=true" alt="MIDAS logo" width="500"/>
+</p>
 
-During the summer of 2021, I was an instructor for the [Data Science for Biomedical Scientist](https://midas.umich.edu/data-science-for-biomedical-scientists/) workshop. This one week course covered the fundamentals of data science and introductory machine learning. I developed and taught programming lectures that applied different algorithms to biological and clinical data.
+During the summer of 2021, I was an instructor for the [Data Science for Biomedical Scientist](https://midas.umich.edu/data-science-for-biomedical-scientists/) workshop. This one week course covered the fundamentals of data science and introductory machine learning. I developed and taught programming lectures that applied different algorithms to biological and clinical data. The programming lectures followed conceptual lectures on how each algorithm worked and different clinical use cases for them.
 
-The code and the data are available in google colab notebooks below. Each notebook contains a description of the data used and some instructions for how to run the code. The notebooks run in google colab and used data stored on github, so you can run them on any machine. Ning Ping was an instructor for this course and coauthored these notebooks with me.
+The code and the data are now available in google colab notebooks below, and the original git repo can be found here: https://github.com/Jpickard1/MIDASBioMedBootCamp. Each notebook contains a description of the data used and some instructions for how to run the code. Ning Ping was an instructor for this course and coauthored these notebooks with me.
 
 ### Introduction to Python
 
