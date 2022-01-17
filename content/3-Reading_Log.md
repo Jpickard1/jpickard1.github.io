@@ -34,3 +34,4 @@ description: >
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](https://drive.google.com/file/d/1BoAGH7ADa12dVTb0szxa5rND-C1iVJ5Z/view) (Erez Lieberman-Aiden and friends)
 - [Hypergraph Similarity Measures](https://drive.google.com/file/d/1nnG30anFDVJnVE-T5ai80dPaVMjIGWgz/view) (Amit Surana, Can Chen and Indika Rajapakse)
 - [The Optimal Hard Threshold for Singular Values is 4/sqrt(3)](https://drive.google.com/file/d/1MAKkzKU9BJlD-pEJ__4e9jRmKvLhiDyq/view) (Martin Gavish, David Donoho)
+- https://arxiv.org/abs/1811.12808
