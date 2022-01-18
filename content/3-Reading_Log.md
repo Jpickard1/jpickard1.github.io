@@ -35,3 +35,5 @@ description: >
 - [Hypergraph Similarity Measures](https://drive.google.com/file/d/1nnG30anFDVJnVE-T5ai80dPaVMjIGWgz/view) (Amit Surana, Can Chen and Indika Rajapakse)
 - [The Optimal Hard Threshold for Singular Values is 4/sqrt(3)](https://drive.google.com/file/d/1MAKkzKU9BJlD-pEJ__4e9jRmKvLhiDyq/view) (Martin Gavish, David Donoho)
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808) (Sebastian Raschka)
+- [Tensor Decomposition for Signal Processing and Machine Learning](https://arxiv.org/pdf/1607.01668.pdf) (Nicholas D. Sidiropoulos,  Lieven De Lathauwer, Xiao Fu, Kejun
+Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
