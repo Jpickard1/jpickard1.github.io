@@ -37,3 +37,5 @@ description: >
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808) (Sebastian Raschka)
 - [Tensor Decomposition for Signal Processing and Machine Learning](https://arxiv.org/pdf/1607.01668.pdf) (Nicholas D. Sidiropoulos,  Lieven De Lathauwer, Xiao Fu, Kejun
 Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
+- [Overinterpretation reveals image classification model pathologies](https://arxiv.org/pdf/2003.08907.pdf) (Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford)
+
