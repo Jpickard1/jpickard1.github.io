@@ -38,4 +38,5 @@ description: >
 - [Tensor Decomposition for Signal Processing and Machine Learning](https://arxiv.org/pdf/1607.01668.pdf) (Nicholas D. Sidiropoulos,  Lieven De Lathauwer, Xiao Fu, Kejun
 Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Overinterpretation reveals image classification model pathologies](https://arxiv.org/pdf/2003.08907.pdf) (Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford)
-
+- [Eigenfaces for Recognition](https://drive.google.com/file/d/1JvFdAp15uf1UGlJS30TNducVE5BNcpTp/view) (Matthew Turk and Alex Pentland)
+- [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
