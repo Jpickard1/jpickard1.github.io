@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
 - [50 Years of Data Science](https://drive.google.com/file/d/1x9ZsIo8mhINNjHlGd5r_q7jEyKNlMOk8/view)(David Donoho)
 - [Conversation with Dr. Steve Smale and Dr. Lee Hartwell](https://drive.google.com/file/d/1GfW_AD97HGbRa2yVuNK-Uix49piaEh2P/view)(Indika Rajapakse)
 - The Double Helix, James Watson
@@ -21,7 +22,6 @@ description: >
 ### 2021
 - [Dependence, Correlation and Gaussianity in Independent Component Analysis](https://www.jmlr.org/papers/volume4/cardoso03a/cardoso03a.pdf) (Jean-Francois Cardoso)
 - [The Wavelet Transform, Time-Frequency, Localization and Signal Analysis](https://services.math.duke.edu/~ingrid/publications/ieee36-1990.pdf) (Ingrid Daubechies)
-- [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
 - [Localization of the Complex Spectrum: The S Transform](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.462.1500&rep=rep1&type=pdf) (R. G. Stockwell, L. Mansinha, and R. P. Lowe)
 - [A general method for numerically simulating the stochastic time evolution of coupled chemical reactions](https://www.sciencedirect.com/science/article/pii/0021999176900413) (Daniel Gillespie)
 - [Selective Markov Models for Predicting Web-Page Accesses](https://archive.siam.org/meetings/sdm01/pdf/sdm01_04.pdf) (Mukund Deshpande and George Karypis)
