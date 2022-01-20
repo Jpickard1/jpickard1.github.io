@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [Eigenfaces for Recognition](https://drive.google.com/file/d/1JvFdAp15uf1UGlJS30TNducVE5BNcpTp/view) (Matthew Turk and Alex Pentland)
 - [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
 - [50 Years of Data Science](https://drive.google.com/file/d/1x9ZsIo8mhINNjHlGd5r_q7jEyKNlMOk8/view) (David Donoho)
 - [Conversation with Dr. Steve Smale and Dr. Lee Hartwell](https://drive.google.com/file/d/1GfW_AD97HGbRa2yVuNK-Uix49piaEh2P/view) (Indika Rajapakse)
@@ -38,5 +39,4 @@ description: >
 - [Tensor Decomposition for Signal Processing and Machine Learning](https://arxiv.org/pdf/1607.01668.pdf) (Nicholas D. Sidiropoulos,  Lieven De Lathauwer, Xiao Fu, Kejun
 Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Overinterpretation reveals image classification model pathologies](https://arxiv.org/pdf/2003.08907.pdf) (Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford)
-- [Eigenfaces for Recognition](https://drive.google.com/file/d/1JvFdAp15uf1UGlJS30TNducVE5BNcpTp/view) (Matthew Turk and Alex Pentland)
 - [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
