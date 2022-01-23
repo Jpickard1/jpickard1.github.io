@@ -14,12 +14,12 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [On Spectral Clustering: Analysis and Algorithms](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) (Andrew Ng, Michael Jordan, Yair Weiss)
 - [Eigenfaces for Recognition](https://drive.google.com/file/d/1JvFdAp15uf1UGlJS30TNducVE5BNcpTp/view) (Matthew Turk and Alex Pentland)
 - [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
 - [50 Years of Data Science](https://drive.google.com/file/d/1x9ZsIo8mhINNjHlGd5r_q7jEyKNlMOk8/view) (David Donoho)
 - [Conversation with Dr. Steve Smale and Dr. Lee Hartwell](https://drive.google.com/file/d/1GfW_AD97HGbRa2yVuNK-Uix49piaEh2P/view) (Indika Rajapakse)
 - The Double Helix, James Watson
-- [On Spectral Clustering: Analysis and Algorithms](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) (Andrew Ng, Michael Jordan, Yair Weiss)
 ### 2021
 - [Dependence, Correlation and Gaussianity in Independent Component Analysis](https://www.jmlr.org/papers/volume4/cardoso03a/cardoso03a.pdf) (Jean-Francois Cardoso)
 - [The Wavelet Transform, Time-Frequency, Localization and Signal Analysis](https://services.math.duke.edu/~ingrid/publications/ieee36-1990.pdf) (Ingrid Daubechies)
