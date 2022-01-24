@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [Spatiotemporal Prediction of Vancomycin-Resistant Enterococcus Colonisation](https://pubmed.ncbi.nlm.nih.gov/35057734/) (JM van Niekerk, M Lokate, L M A Braakman-Jansen, J E W C van Gemert-Pijnen, and A Stein)
 - [The Life History of 21 Breast Cancers](https://pubmed.ncbi.nlm.nih.gov/22608083/) (Serena Nik-Zainal and friends)
 - [On Spectral Clustering: Analysis and Algorithms](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) (Andrew Ng, Michael Jordan, Yair Weiss)
 - [Eigenfaces for Recognition](https://drive.google.com/file/d/1JvFdAp15uf1UGlJS30TNducVE5BNcpTp/view) (Matthew Turk and Alex Pentland)
@@ -43,5 +44,3 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Overinterpretation reveals image classification model pathologies](https://arxiv.org/pdf/2003.08907.pdf) (Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford)
 - [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
 - [New Results on Shortest Paths in Three Dimensions](http://www.ams.sunysb.edu/~jsbm/papers/p166-mitchell.pdf) (Joseph Mitchell and Micha Sharir)
-- [Spatiotemporal Prediction of Vancomycin-Resistant Enterococcus Colonisation](https://pubmed.ncbi.nlm.nih.gov/35057734/) (JM van Niekerk, M Lokate, L M A Braakman-Jansen, J E W C van Gemert-Pijnen, and A Stein)
-
