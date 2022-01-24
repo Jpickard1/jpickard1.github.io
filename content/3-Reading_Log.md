@@ -41,3 +41,6 @@ description: >
 Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Overinterpretation reveals image classification model pathologies](https://arxiv.org/pdf/2003.08907.pdf) (Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford)
 - [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
+- [New Results on Shortest Paths in Three Dimensions](http://www.ams.sunysb.edu/~jsbm/papers/p166-mitchell.pdf) (Joseph Mitchell and Micha Sharir)
+- [Spatiotemporal Prediction of Vancomycin-Resistant Enterococcus Colonisation]() (JM van Niekerk, M Lokate, L M A Braakman-Jansen, J E W C van Gemert-Pijnen, and A Stein)
+
