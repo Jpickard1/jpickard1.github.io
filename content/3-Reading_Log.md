@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [The Life History of 21 Breast Cancers](https://pubmed.ncbi.nlm.nih.gov/22608083/) (Serena Nik-Zainal and friends)
 - [On Spectral Clustering: Analysis and Algorithms](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) (Andrew Ng, Michael Jordan, Yair Weiss)
 - [Eigenfaces for Recognition](https://drive.google.com/file/d/1JvFdAp15uf1UGlJS30TNducVE5BNcpTp/view) (Matthew Turk and Alex Pentland)
 - [Epsilon-Tube Filtering: Reduction of High-Amplitude Motion Artifacts From Impedance Plethysmography Signal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6785963) (Sardar Ansari, Kevin Ward, and Kayvan Najarian)
