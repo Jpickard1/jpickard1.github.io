@@ -13,6 +13,6 @@ During the summer of 2021, I was an instructor for the [Data Science for Biomedi
 
 This project explored and recreated the results in the paper [Rolling Element Bearing Fault Diagnosis Using Convolutional Neural Network and Vibration Image](https://www.sciencedirect.com/science/article/abs/pii/S1389041717303261).
 
-## [Machine Learning Notes](https://www.overleaf.com/read/mtqnnjcbxtsk)
+## [Machine Learning Notes](https://drive.google.com/file/d/1-IX-_AwHDNvIuR2fkbN5uYLO6sQLxs2J/view?usp=sharing)
 
-During my time at the University of Michigan, I have been complining a set of notes covering my favorite topics in machine learning, signals processing, and other related topics. This document initially began when I took Signals Processing and Machine Learning for Biomedical Sciences and Introduction to Machine Learning in the winter of 2021, and it has grown to include additional material as well.
+During my time at the University of Michigan, I have been complining a set of notes covering my favorite topics in machine learning, signals processing, and other related topics. This document initially began when I took Signals Processing and Machine Learning for Biomedical Sciences and Introduction to Machine Learning in the winter of 2021, and it has grown to include additional material as well. I recently went through adding new sections to the document in the Fall of 2021. I am not currently editing this document, but I plan to continue growing it when I complie a few new sections I am working on. Additionally, I plan to make an identical copy using `Python` code rather than `Matlab` to make it more accessible.
