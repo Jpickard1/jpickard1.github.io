@@ -54,3 +54,5 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [The Dual-Tree Complex Wavelet Transform]<!-- In an email from Jonathan on 1/25/2022 --> (Ivan W. Selesnick, Richard G. Baraniuk, and Nick G. Kingsbury)
 - [On the Dual-Tree Complex Wavelet Packet and M-Band Transforms]<!-- In an email from Jonathan on 1/25/2022 --> (̇Ilker Bayram and Ivan W. Selesnick)
 - [Multilinear Dynamical Systems for Tensor Time Series](https://people.eecs.berkeley.edu/~russell/papers/nips13-tensor.pdf) (Mark Rogers, Lei Li, and Stuart Russell)
+- [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) (Sergey Brin and Lawrence Page)
+
