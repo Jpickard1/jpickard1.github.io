@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [Multilinear Time Invariant System Theory](https://drive.google.com/file/d/1LATMTiwkxjBT3_oI5PODA5FnmE2gtkyE/view) (Can Chen, Amit Surana, Anthony Bloch, Indika Rajapakse)
 - [Spatiotemporal Prediction of Vancomycin-Resistant Enterococcus Colonisation](https://pubmed.ncbi.nlm.nih.gov/35057734/) (JM van Niekerk, M Lokate, L M A Braakman-Jansen, J E W C van Gemert-Pijnen, and A Stein)
 - [The Life History of 21 Breast Cancers](https://pubmed.ncbi.nlm.nih.gov/22608083/) (Serena Nik-Zainal and friends)
 - [On Spectral Clustering: Analysis and Algorithms](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf) (Andrew Ng, Michael Jordan, Yair Weiss)
