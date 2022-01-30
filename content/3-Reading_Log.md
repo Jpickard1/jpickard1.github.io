@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [Multilinear Control Systems Theory](https://drive.google.com/file/d/1F0ZGoVWeKSWemXvSp6ilTwLS8N7j6n71/view) (Can Chen, Amit Surana, Anthony Block, Indika Rajapakse)
 - [Multilinear Time Invariant System Theory](https://drive.google.com/file/d/1LATMTiwkxjBT3_oI5PODA5FnmE2gtkyE/view) (Can Chen, Amit Surana, Anthony Bloch, Indika Rajapakse)
 - [Spatiotemporal Prediction of Vancomycin-Resistant Enterococcus Colonisation](https://pubmed.ncbi.nlm.nih.gov/35057734/) (JM van Niekerk, M Lokate, L M A Braakman-Jansen, J E W C van Gemert-Pijnen, and A Stein)
 - [The Life History of 21 Breast Cancers](https://pubmed.ncbi.nlm.nih.gov/22608083/) (Serena Nik-Zainal and friends)
@@ -52,4 +53,3 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Reconstructing an Epidemic Over Time](https://faculty.cc.gatech.edu/~badityap/papers/cult-kdd16.pdf) (Polina Rozenshtein, Aristides Gionis, B. Aditya Prakash, Jilles Vreeken)
 - [The Dual-Tree Complex Wavelet Transform]<!-- In an email from Jonathan on 1/25/2022 --> (Ivan W. Selesnick, Richard G. Baraniuk, and Nick G. Kingsbury)
 - [On the Dual-Tree Complex Wavelet Packet and M-Band Transforms]<!-- In an email from Jonathan on 1/25/2022 --> (̇Ilker Bayram and Ivan W. Selesnick)
-- [Multilinear Control Systems Theory](https://drive.google.com/file/d/1F0ZGoVWeKSWemXvSp6ilTwLS8N7j6n71/view) (Can Chen, Amit Surana, Anthony Block, Indika Rajapakse)
