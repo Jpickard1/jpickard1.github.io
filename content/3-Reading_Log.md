@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### January 2022
+- [Potentially avoidable 30-day hospital readmissions in medical patients: derivation and validation of a prediction model](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1672282) (Jacques Donzé, Drahomir Aujesky, Deborah Williams, and Jeffrey L Schnipper)
 - [Multilinear Control Systems Theory](https://drive.google.com/file/d/1F0ZGoVWeKSWemXvSp6ilTwLS8N7j6n71/view) (Can Chen, Amit Surana, Anthony Block, Indika Rajapakse)
 - [Multilinear Time Invariant System Theory](https://drive.google.com/file/d/1LATMTiwkxjBT3_oI5PODA5FnmE2gtkyE/view) (Can Chen, Amit Surana, Anthony Bloch, Indika Rajapakse)
 - [Spatiotemporal Prediction of Vancomycin-Resistant Enterococcus Colonisation](https://pubmed.ncbi.nlm.nih.gov/35057734/) (JM van Niekerk, M Lokate, L M A Braakman-Jansen, J E W C van Gemert-Pijnen, and A Stein)
@@ -46,7 +47,6 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Overinterpretation reveals image classification model pathologies](https://arxiv.org/pdf/2003.08907.pdf) (Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford)
 - [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
 - [New Results on Shortest Paths in Three Dimensions](http://www.ams.sunysb.edu/~jsbm/papers/p166-mitchell.pdf) (Joseph Mitchell and Micha Sharir)
-- [Potentially avoidable 30-day hospital readmissions in medical patients: derivation and validation of a prediction model](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1672282) (Jacques Donzé, Drahomir Aujesky, Deborah Williams, and Jeffrey L Schnipper)
 - [SC3 - consensus clustering of single-cell RNA-Seq data](https://pubmed.ncbi.nlm.nih.gov/28346451/) (Vladimir Yu. Kiselev, Kristina Kirschner, Michael T. Schaub, Tallulah Andrews, Andrew Yiu, Tamir Chandra, Kedar N Natarajan, Wolf Reik, Mauricio Barahona, Anthony R Green, and Martin Hemberg1)
 - [A novel approach for data integration and disease subtyping](https://pubmed.ncbi.nlm.nih.gov/29066617/) (Tin Nguyen, Rebecca Tagett, Diana Diaz, and Sorin Draghici)
 - [Pagerank Beyond the Web](https://arxiv.org/pdf/1407.5107.pdf) (David Gleich)
