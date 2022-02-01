@@ -13,6 +13,9 @@ description: >
 
 ## Articles and Books I've Read
 
+### February 2022
+- [Inferring Transmission Bottleneck Size from Viral SequenceData Using a Novel Haplotype Reconstruction Method](https://journals.asm.org/doi/epdf/10.1128/JVI.00014-20) (Mahan Ghafari,Casper Lumby, Daniel Weissman, Christopher Illingworth)
+
 ### January 2022
 - [Potentially avoidable 30-day hospital readmissions in medical patients: derivation and validation of a prediction model](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1672282) (Jacques Donzé, Drahomir Aujesky, Deborah Williams, and Jeffrey L Schnipper)
 - [Multilinear Control Systems Theory](https://drive.google.com/file/d/1F0ZGoVWeKSWemXvSp6ilTwLS8N7j6n71/view) (Can Chen, Amit Surana, Anthony Block, Indika Rajapakse)
