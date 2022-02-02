@@ -14,6 +14,8 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [Evaluation of a Multichannel Non-Contact ECG System and Signal Quality Algorithms for Sleep Apnea Detection and Monitoring](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5855940/pdf/sensors-18-00577.pdf) (Ivan D. Castro, Carolina Varon, Tom Torfs, Sabine Van Huffel, Robert Puers, and Chris Van Hoof)
+- [Power Quality Signals Detection Using S-Transform](https://core.ac.uk/download/pdf/235644898.pdf) (N.H.T.Huda, A.R. Abdullah, M.H Jopri)
 - [Signal-Quality Indices for the Electrocardiogram and Photoplethysmogram: Derivation and Applications to Wireless Monitoring](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862843) (Christina Orphanidou, Timothy Bonnici, Peter Charlton, David Clifton, David Vallance, and Lionel Tarassenko)
 - [Inferring Transmission Bottleneck Size from Viral SequenceData Using a Novel Haplotype Reconstruction Method](https://journals.asm.org/doi/epdf/10.1128/JVI.00014-20) (Mahan Ghafari,Casper Lumby, Daniel Weissman, Christopher Illingworth)
 
