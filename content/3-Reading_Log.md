@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [Signal-Quality Indices for the Electrocardiogram and Photoplethysmogram: Derivation and Applications to Wireless Monitoring](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862843) (Christina Orphanidou, Timothy Bonnici, Peter Charlton, David Clifton, David Vallance, and Lionel Tarassenko)
 - [Inferring Transmission Bottleneck Size from Viral SequenceData Using a Novel Haplotype Reconstruction Method](https://journals.asm.org/doi/epdf/10.1128/JVI.00014-20) (Mahan Ghafari,Casper Lumby, Daniel Weissman, Christopher Illingworth)
 
 ### January 2022
