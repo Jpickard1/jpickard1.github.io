@@ -7,13 +7,13 @@ description: >
 
 ## Books I am Currently Reading
 - The Goal (Eliyahu M. Goldratt)
-- A Most Beautiful Thing (Arshay Cooper)
 - [Elements of Information Theorey](https://drive.google.com/file/d/1zQ6PUNGxg1kgJyIcyO2JKJmuTRHU6JI2/view) (Thomas Cover)
 - <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos (Strogatz)</a>
 
 ## Articles and Books I've Read
 
 ### February 2022
+- A Most Beautiful Thing (Arshay Cooper)
 - [Evaluation of a Multichannel Non-Contact ECG System and Signal Quality Algorithms for Sleep Apnea Detection and Monitoring](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5855940/pdf/sensors-18-00577.pdf) (Ivan D. Castro, Carolina Varon, Tom Torfs, Sabine Van Huffel, Robert Puers, and Chris Van Hoof)
 - [Power Quality Signals Detection Using S-Transform](https://core.ac.uk/download/pdf/235644898.pdf) (N.H.T.Huda, A.R. Abdullah, M.H Jopri)
 - [Signal-Quality Indices for the Electrocardiogram and Photoplethysmogram: Derivation and Applications to Wireless Monitoring](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862843) (Christina Orphanidou, Timothy Bonnici, Peter Charlton, David Clifton, David Vallance, and Lionel Tarassenko)
