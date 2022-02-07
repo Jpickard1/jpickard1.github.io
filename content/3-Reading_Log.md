@@ -13,6 +13,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [Mathematical problems for the next century](https://drive.google.com/file/d/1NTW_cTjlAcLgezxLp8aufxxojaJNKFlk/view) (Steve Smale)
 - [SC3 - consensus clustering of single-cell RNA-Seq data](https://pubmed.ncbi.nlm.nih.gov/28346451/) (Vladimir Yu. Kiselev, Kristina Kirschner, Michael T. Schaub, Tallulah Andrews, Andrew Yiu, Tamir Chandra, Kedar N Natarajan, Wolf Reik, Mauricio Barahona, Anthony R Green, and Martin Hemberg1)
 - A Most Beautiful Thing (Arshay Cooper)
 - [Evaluation of a Multichannel Non-Contact ECG System and Signal Quality Algorithms for Sleep Apnea Detection and Monitoring](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5855940/pdf/sensors-18-00577.pdf) (Ivan D. Castro, Carolina Varon, Tom Torfs, Sabine Van Huffel, Robert Puers, and Chris Van Hoof)
@@ -64,7 +65,6 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://drive.google.com/file/d/1qnqFYC8s1moQT5mwVoVqhZDrM5EkhjCd/view) (McInnes, Leland, John Healy, and James Melville)
 - [Initialization is critical for preserving global data structure in both t-SNE and UMAP](https://drive.google.com/file/d/1RbEHfvDSbSha_V-nQeNGxtkJrmoukXRg/view) (Kobak, Dmitry, and George C. Linderman)
 - [Visualizing Data using t-SNE](https://drive.google.com/file/d/1_BXHVPyLNqJyUF7cacZAxAgvspToRQXj/view) (Van der Maaten, Laurens, and Geoffrey Hinton)
-- [Mathematical problems for the next century](https://drive.google.com/file/d/1NTW_cTjlAcLgezxLp8aufxxojaJNKFlk/view) (Steve Smale)
 - [A Lower Bound for the Smallest Eigenvalue of the Laplacian](https://drive.google.com/file/d/1jBwKUSAdDHnEzmDZa1gQY_rRcnHA71N2/view) (Jeff Cheeger)
 - [A tutorial on spectral clustering](https://drive.google.com/file/d/1Jq9MBRMxDfgnnSZmeVtrYvOb2-vksEIS/view) (Von Luxburg, Ulrike)
 - [Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering](https://drive.google.com/file/d/1mIr8h8w9Eb5r193ovPC9NedVJWH3WIfZ/view) (Belkin, Mikhail, and Partha Niyogi)
