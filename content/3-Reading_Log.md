@@ -13,6 +13,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [SC3 - consensus clustering of single-cell RNA-Seq data](https://pubmed.ncbi.nlm.nih.gov/28346451/) (Vladimir Yu. Kiselev, Kristina Kirschner, Michael T. Schaub, Tallulah Andrews, Andrew Yiu, Tamir Chandra, Kedar N Natarajan, Wolf Reik, Mauricio Barahona, Anthony R Green, and Martin Hemberg1)
 - A Most Beautiful Thing (Arshay Cooper)
 - [Evaluation of a Multichannel Non-Contact ECG System and Signal Quality Algorithms for Sleep Apnea Detection and Monitoring](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5855940/pdf/sensors-18-00577.pdf) (Ivan D. Castro, Carolina Varon, Tom Torfs, Sabine Van Huffel, Robert Puers, and Chris Van Hoof)
 - [Power Quality Signals Detection Using S-Transform](https://core.ac.uk/download/pdf/235644898.pdf) (N.H.T.Huda, A.R. Abdullah, M.H Jopri)
@@ -58,7 +59,6 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Numerical Computing with MATLAB](https://www.mathworks.com/moler/chapters.html) (Cleve Moler)
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](https://drive.google.com/file/d/1BoAGH7ADa12dVTb0szxa5rND-C1iVJ5Z/view) (Erez Lieberman-Aiden and friends)
 - [New Results on Shortest Paths in Three Dimensions](http://www.ams.sunysb.edu/~jsbm/papers/p166-mitchell.pdf) (Joseph Mitchell and Micha Sharir)
-- [SC3 - consensus clustering of single-cell RNA-Seq data](https://pubmed.ncbi.nlm.nih.gov/28346451/) (Vladimir Yu. Kiselev, Kristina Kirschner, Michael T. Schaub, Tallulah Andrews, Andrew Yiu, Tamir Chandra, Kedar N Natarajan, Wolf Reik, Mauricio Barahona, Anthony R Green, and Martin Hemberg1)
 - [A novel approach for data integration and disease subtyping](https://pubmed.ncbi.nlm.nih.gov/29066617/) (Tin Nguyen, Rebecca Tagett, Diana Diaz, and Sorin Draghici)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) (Sergey Brin and Lawrence Page)
 - [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://drive.google.com/file/d/1qnqFYC8s1moQT5mwVoVqhZDrM5EkhjCd/view) (McInnes, Leland, John Healy, and James Melville)
