@@ -13,6 +13,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [A Tutorial On Spectral Clustering](https://drive.google.com/file/d/1Jq9MBRMxDfgnnSZmeVtrYvOb2-vksEIS/view) (Von Luxburg, Ulrike)
 - [Mathematical problems for the next century](https://drive.google.com/file/d/1NTW_cTjlAcLgezxLp8aufxxojaJNKFlk/view) (Steve Smale)
 - [SC3 - consensus clustering of single-cell RNA-Seq data](https://pubmed.ncbi.nlm.nih.gov/28346451/) (Vladimir Yu. Kiselev, Kristina Kirschner, Michael T. Schaub, Tallulah Andrews, Andrew Yiu, Tamir Chandra, Kedar N Natarajan, Wolf Reik, Mauricio Barahona, Anthony R Green, and Martin Hemberg1)
 - A Most Beautiful Thing (Arshay Cooper)
@@ -66,5 +67,4 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Initialization is critical for preserving global data structure in both t-SNE and UMAP](https://drive.google.com/file/d/1RbEHfvDSbSha_V-nQeNGxtkJrmoukXRg/view) (Kobak, Dmitry, and George C. Linderman)
 - [Visualizing Data using t-SNE](https://drive.google.com/file/d/1_BXHVPyLNqJyUF7cacZAxAgvspToRQXj/view) (Van der Maaten, Laurens, and Geoffrey Hinton)
 - [A Lower Bound for the Smallest Eigenvalue of the Laplacian](https://drive.google.com/file/d/1jBwKUSAdDHnEzmDZa1gQY_rRcnHA71N2/view) (Jeff Cheeger)
-- [A tutorial on spectral clustering](https://drive.google.com/file/d/1Jq9MBRMxDfgnnSZmeVtrYvOb2-vksEIS/view) (Von Luxburg, Ulrike)
 - [Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering](https://drive.google.com/file/d/1mIr8h8w9Eb5r193ovPC9NedVJWH3WIfZ/view) (Belkin, Mikhail, and Partha Niyogi)
