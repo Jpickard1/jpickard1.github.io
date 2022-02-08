@@ -7,7 +7,7 @@ description: >
 
 ## Books I am Currently Reading
 - The Goal (Eliyahu M. Goldratt)
-- The Lonely Man of Faith (Rav. Joseph B. Soloveitchik)
+- The Lonely Man of Faith (Rav. Joseph Soloveitchik)
 - [Elements of Information Theorey](https://drive.google.com/file/d/1zQ6PUNGxg1kgJyIcyO2JKJmuTRHU6JI2/view) (Thomas Cover)
 - <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos (Strogatz)</a>
 
