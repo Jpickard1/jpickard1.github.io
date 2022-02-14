@@ -14,6 +14,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [A novel approach for data integration and disease subtyping](https://drive.google.com/file/d/1JEy2Y7URtQnIm9eB8s9lOVQ3uAHZozFf/view?usp=sharing) (Tin Nguyen, Rebecca Tagett, Diana Diaz, and Sorin Draghici)
 - [Mapping Transcriptomic Vector Fields of Single Cells](https://drive.google.com/file/d/1qR7j10VyNu1TRD5uRdoI2D4RwwLJFfud/view?usp=sharing) (Xiaojie Qiu, Yan Zhang, Jorge D. Martin-Rufino, Vijay G. Sankaran, Jianhua Xing, Jonathan S. Weissman)
 - [A Tutorial On Spectral Clustering](https://drive.google.com/file/d/1Jq9MBRMxDfgnnSZmeVtrYvOb2-vksEIS/view) (Von Luxburg, Ulrike)
 - [Mathematical problems for the next century](https://drive.google.com/file/d/1NTW_cTjlAcLgezxLp8aufxxojaJNKFlk/view) (Steve Smale)
@@ -63,7 +64,6 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Numerical Computing with MATLAB](https://www.mathworks.com/moler/chapters.html) (Cleve Moler)
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](https://drive.google.com/file/d/1BoAGH7ADa12dVTb0szxa5rND-C1iVJ5Z/view) (Erez Lieberman-Aiden and friends)
 - [New Results on Shortest Paths in Three Dimensions](http://www.ams.sunysb.edu/~jsbm/papers/p166-mitchell.pdf) (Joseph Mitchell and Micha Sharir)
-- [A novel approach for data integration and disease subtyping](https://pubmed.ncbi.nlm.nih.gov/29066617/) (Tin Nguyen, Rebecca Tagett, Diana Diaz, and Sorin Draghici)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) (Sergey Brin and Lawrence Page)
 - [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://drive.google.com/file/d/1qnqFYC8s1moQT5mwVoVqhZDrM5EkhjCd/view) (McInnes, Leland, John Healy, and James Melville)
 - [Initialization is critical for preserving global data structure in both t-SNE and UMAP](https://drive.google.com/file/d/1RbEHfvDSbSha_V-nQeNGxtkJrmoukXRg/view) (Kobak, Dmitry, and George C. Linderman)
