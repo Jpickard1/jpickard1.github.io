@@ -52,6 +52,9 @@ description: >
 - [Rolling element bearing fault diagnosis using convolutional neural network and vibration image](https://www.sciencedirect.com/science/article/abs/pii/S1389041717303261) (Duy-Tang Hoang and Hee-Jun Kang)
 
 ## To Read List:
+- [Controllibility of Complex Networks](https://barabasi.com/f/329.pdf) (Yang-Yu Liu, Jean-Jacques Slotine, and Albert-La´szlo´ Baraba´si)
+- [Algorithm for Cellular Reprogramming](https://www.pnas.org/content/pnas/114/45/11832.full.pdf) (Scott Ronquist, Geoff Patterson, Lindsey A. Muir, Stephen Lindsly, Haiming Chen, Markus Brown, Max S. Wicha, Anthony Bloch, Roger Brockett, and Indika Rajapakse)
+- [The Chemical Basis of Morphogenesis](https://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf) (Alan Turing)
 - [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
 - [The Optimal Hard Threshold for Singular Values is 4/sqrt(3)](https://drive.google.com/file/d/1MAKkzKU9BJlD-pEJ__4e9jRmKvLhiDyq/view) (Martin Gavish, David Donoho)
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808) (Sebastian Raschka)
