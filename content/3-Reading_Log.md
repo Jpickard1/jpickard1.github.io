@@ -15,6 +15,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [Controllibility of Complex Networks](https://barabasi.com/f/329.pdf) (Yang-Yu Liu, Jean-Jacques Slotine, and Albert-La´szlo´ Baraba´si)
 - [Regularized Vector Field Learning with Sparse Approximation for Mismatch Removal](https://drive.google.com/file/d/1w0k3jZtZhAORDLY96HFtEqbR64kp1W7g/view?usp=sharing) (Jiayi Ma, Ji Zhao, Jinwen Tian, Xiang Bai, Zhuowen Tu)
 - [Predicting Effects of Noncoding Variants with Deep Learning–Based Sequence Model](https://www.nature.com/articles/nmeth.3547) (Jian Zhou & Olga Troyanskaya)
 - [A novel approach for data integration and disease subtyping](https://drive.google.com/file/d/1JEy2Y7URtQnIm9eB8s9lOVQ3uAHZozFf/view?usp=sharing) (Tin Nguyen, Rebecca Tagett, Diana Diaz, and Sorin Draghici)
@@ -52,7 +53,6 @@ description: >
 - [Rolling element bearing fault diagnosis using convolutional neural network and vibration image](https://www.sciencedirect.com/science/article/abs/pii/S1389041717303261) (Duy-Tang Hoang and Hee-Jun Kang)
 
 ## To Read List:
-- [Controllibility of Complex Networks](https://barabasi.com/f/329.pdf) (Yang-Yu Liu, Jean-Jacques Slotine, and Albert-La´szlo´ Baraba´si)
 - [Algorithm for Cellular Reprogramming](https://www.pnas.org/content/pnas/114/45/11832.full.pdf) (Scott Ronquist, Geoff Patterson, Lindsey A. Muir, Stephen Lindsly, Haiming Chen, Markus Brown, Max S. Wicha, Anthony Bloch, Roger Brockett, and Indika Rajapakse)
 - [The Chemical Basis of Morphogenesis](https://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf) (Alan Turing)
 - [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
