@@ -15,6 +15,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [Regularized Vector Field Learning with Sparse Approximation for Mismatch Removal](https://drive.google.com/file/d/1w0k3jZtZhAORDLY96HFtEqbR64kp1W7g/view?usp=sharing) (Jiayi Ma, Ji Zhao, Jinwen Tian, Xiang Bai, Zhuowen Tu)
 - [Predicting Effects of Noncoding Variants with Deep Learning–Based Sequence Model](https://www.nature.com/articles/nmeth.3547) (Jian Zhou & Olga Troyanskaya)
 - [A novel approach for data integration and disease subtyping](https://drive.google.com/file/d/1JEy2Y7URtQnIm9eB8s9lOVQ3uAHZozFf/view?usp=sharing) (Tin Nguyen, Rebecca Tagett, Diana Diaz, and Sorin Draghici)
 - [Mapping Transcriptomic Vector Fields of Single Cells](https://drive.google.com/file/d/1qR7j10VyNu1TRD5uRdoI2D4RwwLJFfud/view?usp=sharing) (Xiaojie Qiu, Yan Zhang, Jorge D. Martin-Rufino, Vijay G. Sankaran, Jianhua Xing, Jonathan S. Weissman)
