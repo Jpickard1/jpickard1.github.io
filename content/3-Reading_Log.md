@@ -15,6 +15,14 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) (Sergey Brin and Lawrence Page)
+- [The Dual-Tree Complex Wavelet Transform]<!-- In an email from Jonathan on 1/25/2022 --> (Ivan W. Selesnick, Richard G. Baraniuk, and Nick G. Kingsbury)
+- [On the Dual-Tree Complex Wavelet Packet and M-Band Transforms]<!-- In an email from Jonathan on 1/25/2022 --> (̇Ilker Bayram and Ivan W. Selesnick)
+- [Applying Network Theory to Epidemics: Control Measures for Mycoplasma pneumoniae Outbreaks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369603/pdf/02-0188.pdf) (Lauren Ancel Meyers, M.E.J. Newman, Michael Martin, and Stephanie Schrag)
+- [Controllability and Epidemic Spreading](http://snap.stanford.edu/class/cs224w-2015/projects_2015/Controllability_and_epidemic_spreading.pdf) (Larry Lam, Guillaume Rostaing, and Alexander Schaub)
+- [Applying Optimal Control Theory to Complex Epidemiological Models to Inform Real-World Disease Management](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0284) (E. H. Bussell, C. E. Dangerfield, C. A. Gilligan and N. J. Cunniffe)
+- [Regularized Vector Field Learning with Sparse Approximation for Mismatch Removal](https://www.vlrlab.net/admin/uploads/avatars/Regularized_vector_field_learning_with_sparse_approximation_for_mismatch_removal.pdf) (Jiayi Ma, Ji Zhao, Jinwen Tian, Xiang Bai, and Zhuowen Tu)
+- [Algorithm for Cellular Reprogramming](https://www.pnas.org/content/pnas/114/45/11832.full.pdf) (Scott Ronquist, Geoff Patterson, Lindsey A. Muir, Stephen Lindsly, Haiming Chen, Markus Brown, Max S. Wicha, Anthony Bloch, Roger Brockett, and Indika Rajapakse)
 - [Controllibility of Complex Networks](https://barabasi.com/f/329.pdf) (Yang-Yu Liu, Jean-Jacques Slotine, and Albert-La´szlo´ Baraba´si)
 - [Regularized Vector Field Learning with Sparse Approximation for Mismatch Removal](https://drive.google.com/file/d/1w0k3jZtZhAORDLY96HFtEqbR64kp1W7g/view?usp=sharing) (Jiayi Ma, Ji Zhao, Jinwen Tian, Xiang Bai, Zhuowen Tu)
 - [Predicting Effects of Noncoding Variants with Deep Learning–Based Sequence Model](https://www.nature.com/articles/nmeth.3547) (Jian Zhou & Olga Troyanskaya)
@@ -53,7 +61,6 @@ description: >
 - [Rolling element bearing fault diagnosis using convolutional neural network and vibration image](https://www.sciencedirect.com/science/article/abs/pii/S1389041717303261) (Duy-Tang Hoang and Hee-Jun Kang)
 
 ## To Read List:
-- [Algorithm for Cellular Reprogramming](https://www.pnas.org/content/pnas/114/45/11832.full.pdf) (Scott Ronquist, Geoff Patterson, Lindsey A. Muir, Stephen Lindsly, Haiming Chen, Markus Brown, Max S. Wicha, Anthony Bloch, Roger Brockett, and Indika Rajapakse)
 - [The Chemical Basis of Morphogenesis](https://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf) (Alan Turing)
 - [Why Are Big Data Matrices Approximately Low Rank?](https://drive.google.com/file/d/1UvWK3nFKOvP_ik7cAqqbsUfKJeO02cP4/view) (Madeleine Udell and Alex Townsend)
 - [The Optimal Hard Threshold for Singular Values is 4/sqrt(3)](https://drive.google.com/file/d/1MAKkzKU9BJlD-pEJ__4e9jRmKvLhiDyq/view) (Martin Gavish, David Donoho)
@@ -64,13 +71,10 @@ Huang,  Evangelos E. Papalexakis, and Christos Faloutsos)
 - [Hypergraph Similarity Measures](https://drive.google.com/file/d/1nnG30anFDVJnVE-T5ai80dPaVMjIGWgz/view) (Amit Surana, Can Chen and Indika Rajapakse)
 - [Pagerank Beyond the Web](https://arxiv.org/pdf/1407.5107.pdf) (David Gleich)
 - [Reconstructing an Epidemic Over Time](https://faculty.cc.gatech.edu/~badityap/papers/cult-kdd16.pdf) (Polina Rozenshtein, Aristides Gionis, B. Aditya Prakash, Jilles Vreeken)
-- [The Dual-Tree Complex Wavelet Transform]<!-- In an email from Jonathan on 1/25/2022 --> (Ivan W. Selesnick, Richard G. Baraniuk, and Nick G. Kingsbury)
-- [On the Dual-Tree Complex Wavelet Packet and M-Band Transforms]<!-- In an email from Jonathan on 1/25/2022 --> (̇Ilker Bayram and Ivan W. Selesnick)
 - [Multilinear Dynamical Systems for Tensor Time Series](https://people.eecs.berkeley.edu/~russell/papers/nips13-tensor.pdf) (Mark Rogers, Lei Li, and Stuart Russell)
 - [Numerical Computing with MATLAB](https://www.mathworks.com/moler/chapters.html) (Cleve Moler)
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](https://drive.google.com/file/d/1BoAGH7ADa12dVTb0szxa5rND-C1iVJ5Z/view) (Erez Lieberman-Aiden and friends)
 - [New Results on Shortest Paths in Three Dimensions](http://www.ams.sunysb.edu/~jsbm/papers/p166-mitchell.pdf) (Joseph Mitchell and Micha Sharir)
-- [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) (Sergey Brin and Lawrence Page)
 - [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://drive.google.com/file/d/1qnqFYC8s1moQT5mwVoVqhZDrM5EkhjCd/view) (McInnes, Leland, John Healy, and James Melville)
 - [Initialization is critical for preserving global data structure in both t-SNE and UMAP](https://drive.google.com/file/d/1RbEHfvDSbSha_V-nQeNGxtkJrmoukXRg/view) (Kobak, Dmitry, and George C. Linderman)
 - [Visualizing Data using t-SNE](https://drive.google.com/file/d/1_BXHVPyLNqJyUF7cacZAxAgvspToRQXj/view) (Van der Maaten, Laurens, and Geoffrey Hinton)
