@@ -8,6 +8,7 @@ description: >
 ## Books I am Currently Reading
 - The Goal (Eliyahu M. Goldratt)
 - The Lonely Man of Faith (Rav. Joseph Soloveitchik)
+- No Room for Small Dreams: Courage, Imagination, and the Making of Modern Israel (Shimon Peres)
 - [Control Theory Tutorial: Basic Concepts Illustrated by Software Examples](https://library.oapen.org/bitstream/id/ca08ee4d-3639-43d0-81b7-f53ebdfd1e03/1002170.pdf) Steven A. Frank)
 - [Elements of Information Theorey](https://drive.google.com/file/d/1zQ6PUNGxg1kgJyIcyO2JKJmuTRHU6JI2/view) (Thomas Cover)
 - <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos (Strogatz)</a>
