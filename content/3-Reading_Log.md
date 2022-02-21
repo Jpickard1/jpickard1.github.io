@@ -16,6 +16,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- [Why does drug resistance readily evolve but vaccine resistance does not?](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.2562) (David Kennedy and Andrew Read)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) (Sergey Brin and Lawrence Page)
 - [The Dual-Tree Complex Wavelet Transform]<!-- In an email from Jonathan on 1/25/2022 --> (Ivan W. Selesnick, Richard G. Baraniuk, and Nick G. Kingsbury)
 - [On the Dual-Tree Complex Wavelet Packet and M-Band Transforms]<!-- In an email from Jonathan on 1/25/2022 --> (̇Ilker Bayram and Ivan W. Selesnick)
