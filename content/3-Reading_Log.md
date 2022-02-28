@@ -6,7 +6,6 @@ description: >
 ---
 
 ## Books I am Currently Reading
-- The Goal (Eliyahu M. Goldratt)
 - The Lonely Man of Faith (Rav. Joseph Soloveitchik)
 - No Room for Small Dreams: Courage, Imagination, and the Making of Modern Israel (Shimon Peres)
 - [Control Theory Tutorial: Basic Concepts Illustrated by Software Examples](https://library.oapen.org/bitstream/id/ca08ee4d-3639-43d0-81b7-f53ebdfd1e03/1002170.pdf) Steven A. Frank)
@@ -16,6 +15,7 @@ description: >
 ## Articles and Books I've Read
 
 ### February 2022
+- The Goal (Eliyahu M. Goldratt)
 - [Why Does Drug Resistance Readily Evolve but Vaccine Resistance Does Not?](https://royalsocietypublishing.org/doi/10.1098/rspb.2016.2562) (David Kennedy and Andrew Read)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) (Sergey Brin and Lawrence Page)
 - [The Dual-Tree Complex Wavelet Transform]<!-- In an email from Jonathan on 1/25/2022 --> (Ivan W. Selesnick, Richard G. Baraniuk, and Nick G. Kingsbury)
