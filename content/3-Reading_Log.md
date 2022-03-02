@@ -6,15 +6,16 @@ description: >
 ---
 
 ## Books I am Currently Reading
-- No Room for Small Dreams: Courage, Imagination, and the Making of Modern Israel (Shimon Peres)
-- The Lonely Man of Faith (Rav. Joseph Soloveitchik)
 - [Control Theory Tutorial: Basic Concepts Illustrated by Software Examples](https://library.oapen.org/bitstream/id/ca08ee4d-3639-43d0-81b7-f53ebdfd1e03/1002170.pdf) Steven A. Frank)
 - [Elements of Information Theorey](https://drive.google.com/file/d/1zQ6PUNGxg1kgJyIcyO2JKJmuTRHU6JI2/view) (Thomas Cover)
 - <a href="https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf">Nonlinear Dynamics and Chaos</a> (Steven Strogatz)
+- The Lonely Man of Faith (Rav. Joseph Soloveitchik)
 
 ## Articles and Books I've Read
 
 ### March 2022
+- No Room for Small Dreams: Courage, Imagination, and the Making of Modern Israel (Shimon Peres)
+
 ### February 2022
 - [Automatic Multimedia Cross-modal Correlation Discovery](https://dl.acm.org/doi/pdf/10.1145/1014052.1014135) (Jia-Yu Pan, Hyung-Jeong Yang, Christos Faloutsos, and Pinar Duygulu)
 - [Robust single-cell Hi-C clustering by convolution- and random-walk–based imputation](https://drive.google.com/file/d/1ELgm70_0Q8slanpIORQePjvLG2oWAjwe/view) (Jingtian Zhou, Jianzhu Ma, Yusi Chen, Chuankai Cheng, Bokan Bao, Jian Peng, Terrence J. Sejnowski, Jesse R. Dixon, and Joseph R. Ecker)
