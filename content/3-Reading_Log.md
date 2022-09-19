@@ -5,6 +5,8 @@ description: >
     This is a list of articles and books I have or am currently reading.
 ---
 
+This page has fallen out of date, but it contains a number of interesting articles and books I have read. I no longer actively update the list of what I am reading, but continue to log it in my personal research notebook.
+
 ## Books I am Currently Reading
 - [Control Theory Tutorial: Basic Concepts Illustrated by Software Examples](https://library.oapen.org/bitstream/id/ca08ee4d-3639-43d0-81b7-f53ebdfd1e03/1002170.pdf) Steven A. Frank)
 - [Elements of Information Theorey](https://drive.google.com/file/d/1zQ6PUNGxg1kgJyIcyO2JKJmuTRHU6JI2/view) (Thomas Cover)
